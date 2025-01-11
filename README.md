@@ -1,1 +1,1 @@
-# belajar-githu-dari-unpas
+# belajar-github-dari-unpas
